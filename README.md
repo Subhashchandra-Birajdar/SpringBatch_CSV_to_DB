@@ -60,6 +60,8 @@ This Spring Boot application facilitates batch processing to import data from a 
    ```bash
    mvn spring-boot:run
    ```
+4. **Test :** Through Postman Run
+   ![postman client](https://github.com/user-attachments/assets/a4d171ad-8317-4cc0-850a-9c669c1f9b02)
 
 5. **Monitor Progress:** Monitor the console logs for batch processing status and any errors encountered during execution.
 
